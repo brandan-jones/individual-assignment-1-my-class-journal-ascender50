@@ -28,6 +28,6 @@ DTOs are created properly, and use Lombok annotations.  10/10
 
 All work is committed and pushed to a repository on github.com.    10/10
 
-CircleCI is configured properly.  The last commit shows a green checkmark, indicating that everything passed.  10/10
+CircleCI is configured properly.  The last commit shows a green checkmark, indicating that everything passed.  10/10 (last commit show green mark so I think so)
 
 Code is in good form.  Format, tabs, imports, etc. are proper.  Code follows best practices and naming conventions (https://www.baeldung.com/java-clean-code (Links to an external site.), https://rhamedy.medium.com/a-short-summary-of-java-coding-best-practices-31283d0167d3 (Links to an external site.)).  Appropriate classes and methods have JavaDoc (https://www.jrebel.com/blog/tips-and-tricks-for-better-java-documentation (Links to an external site.)).  10/10
